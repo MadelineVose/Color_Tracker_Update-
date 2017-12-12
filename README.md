@@ -1,0 +1,2 @@
+# Color_Tracker_Update-
+This is an updated version of my max msp color tracker. I edited primarily in presentation mode to create an easy to manage intuitive interface. This Patch controls a jitter feed by using a color tracker to move aspects of the jitter feed. I created a color tracker with the help of programming for people https://www.youtube.com/watch?v=Fvmh-Idxl7Q. I then wanted to not only track color but also track a jitter feed by using a masato tsutsui patch.
